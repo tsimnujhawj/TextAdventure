@@ -1,5 +1,5 @@
 You come to the tall gates of a ghastly forest of bamboos and thick grass. You have been pursed by the evil monks for days.
 
 You stop to catch your breath. What should you do?
-A. Run into the forest
-B. Turn around and fight
+1. Run into the forest
+2. Turn around and fight
