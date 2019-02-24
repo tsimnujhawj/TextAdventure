@@ -19,4 +19,5 @@ MonoBehaviour:
     and give an all mighty shove.\r\n\r\nFrom behind you hear a surprised crew member.
     He rushes. You shoot. Direct hit. Thank goodness for the weapon. You're safe.
     For now.\r\n\r\n1. Continue..."
-  nextStates: []
+  nextStates:
+  - {fileID: 11400000, guid: b2764931bc6ea494f8643ed1b143fb90, type: 2}

@@ -22,6 +22,6 @@ MonoBehaviour:
     2, or 3.
 
 
-    At anytime, press Q to quit.'
+    Press 1 to start...'
   nextStates:
   - {fileID: 11400000, guid: bfc8d937cf311384eb1a8f9301b2ce00, type: 2}
