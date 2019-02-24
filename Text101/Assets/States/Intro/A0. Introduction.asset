@@ -10,9 +10,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ab1625b56a8e27d4c82bd2fef2f75639, type: 3}
-  m_Name: StartingState
+  m_Name: A0. Introduction
   m_EditorClassIdentifier: 
-  storyText: "You come to the tall gates of a ghastly forest of bamboos and thick
-    grass. You have been pursed by the evil monks for days.\r\n\r\nYou stop to catch
-    your breath. What should you do?\r\nA. Run into the forest\r\nB. Turn around and
-    fight"
+  storyText: 'Welcome to this game.
+
+
+    This is a choose your own adventure.
+
+
+    At each stage, you''ll be asked to press a key on the keyboard, for example 1,
+    2, or 3.
+
+
+    At anytime, press Q to quit.'
+  nextStates:
+  - {fileID: 11400000, guid: bfc8d937cf311384eb1a8f9301b2ce00, type: 2}
